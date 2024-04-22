@@ -1,6 +1,6 @@
 # Geo-Referencing and Analysis of Entities Extracted from Old Drawings and Photos Using Computer Vision and Deep Learning Algorithms
 
-<b>Paper url: </b>https://www.mdpi.com/2220-9964/12/12/500
+<b>Paper url: </b>https://www.mdpi.com/2220-9964/12/12/500 <br />
 <b>Abstract: </b> This study offers a quantitative solution that automates the creation of a historical timeline
 starting with old drawings from the beginning of the 18th century and ending with present-day
 photographs of the Old City of Jerusalem. This is performed using GIScience approaches, computer
